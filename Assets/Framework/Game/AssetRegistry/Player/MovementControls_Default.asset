@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7de59f14e30419688c299e8f74654ff, type: 3}
+  m_Name: MovementControls_Default
+  m_EditorClassIdentifier: 
+  GravityMagnitude: 0
+  GravityScale: 0
+  RunningAccelerationAmount: 0
+  RunningDecelerationAmount: 0
+  InitialJumpForce: 0
+  MaximumWalkingSpeed: 10
+  MaximumRunningSpeed: 25
+  RunningAcceleration: 2.5
+  RunningDeceleration: 5
+  AirborneAccelerationFactor: 0.65
+  AirborneDecelerationFactor: 0.65
+  NormalFallGravityMultiplier: 1.5
+  MaximumNormalFallSpeed: 25
+  QuickFallGravityMultiplier: 2
+  MaximumQuickFallSpeed: 30
+  UseConserveMomentum: 1
+  JumpPeakHeight: 3.5
+  JumpRiseDuration: 0.3
+  JumpCancelGravityMultiplier: 2
+  MidAirHangGravityMultiplier: 0.5
+  JumpAirHangTimeLimit: 1
+  MidAirHangAccelerationMultiplier: 1.1
+  MidAirHangMaxSpeedMultiplier: 1.3
+  CoyoteTime: 0.1
+  JumpInputBufferTime: 0.1
+  WallJumpForce: {x: 15, y: 25}
+  WallJumpMovementSmoothingFactor: 0.5
+  WallJumpTime: 0.15
+  TurnCharacterOnWallJump: 0
+  MaxWallSlideSpeed: 0
+  WallSlideAcceleration: 0
+  MaximumNumberOfDashes: 1
+  DashMaxSpeed: 20
+  DashSleepTime: 0.05
+  DashEngageDuration: 0.15
+  DashEndTime: 0.15
+  DashEndSpeed: {x: 15, y: 15}
+  DashEndedMovementSmoothingFactor: 0.5
+  DashRechargeDuration: 0.1
+  DashInputBufferDuration: 0.1
+  ClimbingLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  ClimbingSpeed: 5
+  ClimbGrabbingTime: 0.25
+  GroundCheckScale: {x: 0.49, y: 0.03}
+  WallCheckScale: {x: 0.5, y: 1}
+  GroundLayerMask:
+    serializedVersion: 2
+    m_Bits: 0
+  MaxTilt: 10
+  TiltSpeed: 0.08

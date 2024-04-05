@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55d45dc9e405463e802a479962d54e20, type: 3}
+  m_Name: BombAttackStrategy
+  m_EditorClassIdentifier: 
+  AttackRate: 2
+  Damage: 10
+  Force: 10
+  AttackRange: 5
+  DamageableLayer:
+    serializedVersion: 2
+    m_Bits: 4096
+  BombSettings: {fileID: 11400000, guid: eedb18895592eb74e8ce826c2fc83c76, type: 2}
+  BombPrefab: {fileID: 1424271652064875707, guid: ff3aa9611740abe4f8cd52ef3ffade82, type: 3}
+  Count: 3
+  SpreadAngle: 90
+  ThrowForce: 16.56
+  Height: 18.7
+  Speed: 1
+  TimeBetweenBombs: 0
+  Length: 1.45

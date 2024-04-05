@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2880901bf184b1fbff9e66555ba5e6f, type: 3}
+  m_Name: VFX_SpikeBombProjectile_PoolSettings
+  m_EditorClassIdentifier: 
+  Type: {fileID: 11400000, guid: c3f553a63c883814c890045b29593cd6, type: 2}
+  Prefab: {fileID: 2463862862027521882, guid: 85b508c84f4902543a8a4745c9ec8bf2, type: 3}
+  DespawnDelay: 5
+  Speed: 10
+  Damage: 10
+  Force: 10

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2880901bf184b1fbff9e66555ba5e6f, type: 3}
+  m_Name: VFX_BoulderProjectile_PoolSettings
+  m_EditorClassIdentifier: 
+  Type: {fileID: 11400000, guid: 1ae42fd9044741542a819deb066eb14d, type: 2}
+  Prefab: {fileID: 2403698321124828839, guid: 0d1bb49b4b016e440836e3853eef8c8d, type: 3}
+  DespawnDelay: 5
+  Speed: 10
+  Damage: 25
+  Force: 10

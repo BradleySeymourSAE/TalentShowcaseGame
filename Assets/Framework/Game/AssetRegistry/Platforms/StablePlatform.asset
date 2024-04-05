@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c2d5345a2d24dd98256039bee4a8f2a, type: 3}
+  m_Name: StablePlatform
+  m_EditorClassIdentifier: 
+  UseMovement: 0
+  MovementTime: 3
+  MovementOffset: {x: 0, y: 5, z: 0}
+  UseRotation: 0
+  RotationVelocity: 30
+  RotationAxis: 1
+  RotationOffset: {x: 0, y: 0, z: 0}
+  UseLocalRotation: 0
+  UsePendulumRotation: 0
+  PendulumRotationRange: 45
+  UseVanish: 0
+  VanishDuration: 3
+  VanishStartDelay: 1
+  ReappearDelay: 1
+  ReappearDuration: 1
+  ShouldReappear: 1
+  ShouldVanishOnStart: 0

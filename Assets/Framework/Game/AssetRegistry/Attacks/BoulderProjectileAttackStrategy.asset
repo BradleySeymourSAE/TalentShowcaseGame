@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06a2eed994aa439683c82f357ec10219, type: 3}
+  m_Name: BoulderProjectileAttackStrategy
+  m_EditorClassIdentifier: 
+  AttackRate: 3
+  Damage: 25
+  Force: 10
+  AttackRange: 40
+  DamageableLayer:
+    serializedVersion: 2
+    m_Bits: 4096
+  ProjectileSettings: {fileID: 11400000, guid: 77dc61ff3b9603c47be1051ffbe82bb3, type: 2}
+  Speed: 5
+  Duration: 1

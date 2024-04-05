@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3e5c35ba4e1478292297550624e7365, type: 3}
+  m_Name: Golem Boss
+  m_EditorClassIdentifier: 
+  MaxHealth: 500
+  HealthRecoveryRate: 0
+  HealthRecoveryDelay: 0
+  RunningSpeed: 4
+  RunningAccelerationAmount: 0.5
+  RunningDecelerationAmount: 0.5
+  AttackStrategies:
+  - {fileID: 11400000, guid: b44e8ebe797d83c44b0bdb31e283b002, type: 2}
+  - {fileID: 11400000, guid: 3172211b26c02a84580a5a9320b684e6, type: 2}
+  - {fileID: 11400000, guid: 6f803e890ec61d84b9f1099da40284f4, type: 2}
+  AttackDistance: 15
+  VisionAngle: 180
+  VisionRange: 55
+  VisionLayerMask:
+    serializedVersion: 2
+    m_Bits: 4608
+  VisionColor: {r: 1, g: 0, b: 0, a: 0.25}

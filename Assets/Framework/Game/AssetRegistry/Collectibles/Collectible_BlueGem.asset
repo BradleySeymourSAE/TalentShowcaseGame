@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15417b9499124c1ba124615aefd76f7d, type: 3}
+  m_Name: Collectible_BlueGem
+  m_EditorClassIdentifier: 
+  Type: {fileID: 11400000, guid: 78073daf82c8cbf429d70c34e8dee919, type: 2}
+  Prefab: {fileID: 3969960467228511413, guid: e1c5986b95df2294e9fa5e8a9610a7a6, type: 3}
+  ScoreValue: 10
+  DestroyOnCollect: 1
+  CollectibleEventChannel: {fileID: 11400000, guid: 47b472e61870b3d45bb12819fe02154f, type: 2}
+  CollectionEffectDuration: 2
+  CollectionEffect: {fileID: 11400000, guid: 4659b468e3dddf44fae0e10af36bf126, type: 2}
+  Sprite: {fileID: 21300000, guid: 86c6c39552fbbdc4c9023e962d8cc437, type: 3}

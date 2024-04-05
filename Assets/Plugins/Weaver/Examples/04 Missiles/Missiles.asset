@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 226486ce266fedb48877cc5448863a24, type: 3}
+  m_Name: Missiles
+  m_EditorClassIdentifier: 
+  _Directory: {fileID: 102900000, guid: a4b642e31bd386f47b99c91d9683ea3e, type: 3}
+  _Recursive: 0
+  _Assets:
+  - {fileID: 114197796815278430, guid: 395cb499b20ad8f4ab383052bfad120e, type: 2}
+  - {fileID: 114197796815278430, guid: e0693a4f10c067a4a94be1e1801f2f35, type: 2}
+  - {fileID: 114197796815278430, guid: 943225d305202d34e99653ba796df1b7, type: 2}
+  - {fileID: 114197796815278430, guid: dedb73614fe789c4bab9ee2a207e8bb0, type: 2}

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146245e1f6288ec4faa8f874a817bd9f, type: 3}
+  m_Name: All Items
+  m_EditorClassIdentifier: 
+  _Directory: {fileID: 102900000, guid: b61a09c3d9ae0114c8452a49d67687e1, type: 3}
+  _Recursive: 0
+  _Paths:
+  - Capsule
+  - Cube
+  - Plane
+  - Quad
+  - Sphere
+  _MetaData:
+  - _Name: 2m Capsule
+    _Icon: {fileID: 2800000, guid: 2b73a1303596b9c4ea9eed4792f34cff, type: 3}
+    _Cost: 10
+    _Weight: 4.5
+    _Description: Two 1m diameter spheres joined by a cylinder with a total height
+      of 1m.
+  - _Name: 1m Cube
+    _Icon: {fileID: 2800000, guid: f5fba954dc46076448d3a087b06d0863, type: 3}
+    _Cost: 5
+    _Weight: 10
+    _Description: A simple 1m cube.
+  - _Name: 10x10 Plane
+    _Icon: {fileID: 2800000, guid: 95ef637804643584c8f1a5b56f2b8b4d, type: 3}
+    _Cost: 100
+    _Weight: 1
+    _Description: A 10m x 10m flat sheet.
+  - _Name: 1m Quad
+    _Icon: {fileID: 2800000, guid: c1df1cda01019fb438ae37d96d0bf4d8, type: 3}
+    _Cost: 25
+    _Weight: 0.1
+    _Description: A 1m square.
+  - _Name: 1m Sphere
+    _Icon: {fileID: 2800000, guid: 1904404b1721b8e469c7aafcce7227ac, type: 3}
+    _Cost: 7
+    _Weight: 3
+    _Description: A 1m diameter sphere.

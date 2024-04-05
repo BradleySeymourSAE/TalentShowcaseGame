@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Level_01
+  m_EditorClassIdentifier: EMX.HierarchyPro.Runtime:EMX.HierarchyPlugin.Editor:HierarchyExternalSceneData
+  types:
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data: []
+  - data:
+    - saverType: 6
+      id_in_external_heap: 1205963864
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-206944765-0
+      namesPathBackup: "GAME STATE MANAGER\xBEStarting Checkpoint"
+      siblingsPathBackup: "3\xBE0"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot9_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 242
+    - saverType: 6
+      id_in_external_heap: 1754888664
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-1793114867-0
+      namesPathBackup: "GAME STATE MANAGER\xBECheckpoint_1"
+      siblingsPathBackup: "3\xBE1"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot9_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 243
+    - saverType: 6
+      id_in_external_heap: -726217534
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-944909093-0
+      namesPathBackup: "GAME STATE MANAGER\xBECheckpoint_1"
+      siblingsPathBackup: "3\xBE2"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot9_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 244
+    - saverType: 6
+      id_in_external_heap: 1601266720
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-1689779583-0
+      namesPathBackup: "GAME STATE MANAGER\xBECheckpoint_2"
+      siblingsPathBackup: "3\xBE3"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot9_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 245
+    - saverType: 6
+      id_in_external_heap: 44039152
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-990547348-0
+      namesPathBackup: "GAME STATE MANAGER\xBECheckpoint_3"
+      siblingsPathBackup: "3\xBE4"
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot9_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 246
+    - saverType: 6
+      id_in_external_heap: -1044701193
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-7306330488401209673-7261350126867284835
+      namesPathBackup: Golem Boss
+      siblingsPathBackup: 16
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 247
+    - saverType: 6
+      id_in_external_heap: 1753614771
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-2372418379971156400-2399493205871834417
+      namesPathBackup: 'Juggernaut Axe Thrower '
+      siblingsPathBackup: 20
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 248
+    - saverType: 6
+      id_in_external_heap: 1185201325
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-6289220460835030252-6262254208670493533
+      namesPathBackup: Dreadnought_2
+      siblingsPathBackup: 21
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 249
+    - saverType: 6
+      id_in_external_heap: 293367364
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-2746103466838821731-2863213096685127927
+      namesPathBackup: Mage
+      siblingsPathBackup: 22
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 250
+    - saverType: 6
+      id_in_external_heap: -901399086
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-6289220460835030252-547180218
+      namesPathBackup: Dreadnought_3
+      siblingsPathBackup: 24
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 251
+    - saverType: 6
+      id_in_external_heap: -1491659080
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-6289220460835030252-511152269
+      namesPathBackup: Dreadnought_4
+      siblingsPathBackup: 25
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 252
+    - saverType: 6
+      id_in_external_heap: -1117800515
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-2746103466838821731-127132761
+      namesPathBackup: Mage_3
+      siblingsPathBackup: 28
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 253
+    - saverType: 6
+      id_in_external_heap: 2029669114
+      indentifierVersion: GlobalObjectId_V1
+      identifierTypetargetObjectIdtargetPrefabId: -2-927a6d9a9aabf254082b6b9715339e88-2746103466838821731-68586321
+      namesPathBackup: Mage_4
+      siblingsPathBackup: 29
+      boolValue: 0
+      stringValue: 
+      highLighterData: []
+      iconData:
+      - icon_guid: Library/sv_icon_dot14_pix16_gizmo
+        icon_path: 
+        has_icon_color: 0
+        icon_color:
+          r: 0
+          g: 0
+          b: 0
+          a: 0
+        id: 254
+  BookMarks_InternalGlobal: []
+  HierExpands_InternalGlobal: []

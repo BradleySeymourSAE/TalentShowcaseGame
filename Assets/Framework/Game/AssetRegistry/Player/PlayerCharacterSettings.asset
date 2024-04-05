@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcaacf736094f75a57f990533c74366, type: 3}
+  m_Name: PlayerCharacterSettings
+  m_EditorClassIdentifier: 
+  MaxHealth: 100
+  HealthRecoveryRate: 0
+  HealthRecoveryDelay: 20
+  FootstepInterval_Walking: 0.4
+  FootstepInterval_Running: 0.2
+  MinAirTimeForLandedSound: 0.2
+  JumpEffect: {fileID: 11400000, guid: c586c7fb696d04743b106dab52865c23, type: 2}
+  LandEffect: {fileID: 11400000, guid: e6f30c1341ab2734aba82900d408b856, type: 2}
+  ParticleColor: {r: 0.15970987, g: 0.3490566, b: 0.32289708, a: 0.49019608}
+  WeaponStrategy: {fileID: 11400000, guid: d50e03dac65b6b043962e7770dbf99d0, type: 2}
+  InputActions: {fileID: -944628639613478452, guid: 992998f24e996e346b8ac34dc05b01ff, type: 3}
+  MovementInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 84d91a58-81da-43a4-a019-5e5de4a353c4
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  LookInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 58854bcb-6531-4ff6-aa4b-975f486afc7f
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  CrouchInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: d18e5fb4-2f17-4613-ab18-8a82c1a8cffb
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  JumpInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 722aa010-45b8-4ffe-ba06-ec069b751608
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  DashInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 1f416235-1056-44d8-8f3b-8a6d613d937a
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  AttackInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 12817a4a-fc49-4184-bde4-cc6ce4e800de
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
+  InteractInputAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 2fac622b-2eb0-4d68-b78e-89aff3719df6
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
